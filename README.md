@@ -3,6 +3,8 @@
 ## **Introduction**
 This is a simple arcade-style game of tennis where we play against a bot. The web-application is made out of pure javascript and html.
 
+![image](https://user-images.githubusercontent.com/61109976/174336900-2824d7e2-4e21-49cf-8376-c4bbf120ba16.png)
+
 
 ## **Usage**
 Just download the zip file, and enjoy the game.

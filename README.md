@@ -17,6 +17,6 @@ The game can have a play-style where with each successful hit of the user, the g
 
 
 ## **More Apps!**
-Explore one of my websites, where I host these apps!
+Explore the website where I host these Web-Apps!
 
 Visit WebShelf <a href="https://rahulrajdixit.github.io/Webshelf">WebShelf</a> right now!

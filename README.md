@@ -7,13 +7,13 @@ This is a simple arcade-style game of tennis where we play against a bot. The we
 
 
 ## **Usage**
-Just download the zip file, and enjoy the game.
+Just download the zip file and enjoy the game.
 
 Or else, just click <a href="https://rahulrajdixit.github.io/Webshelf/arcade_tennis.html">here</a> for a preview.
 
 
 ## **Improvements To Be Made**
-The game can have a play-style where with each successful hit of the user, the game gets tougher. (This change will be made in a few days).
+The game can have a play-style where with each successful hit/save of the user, the speed of the ball increases. (This change will be made in a few days).
 
 
 ## **More Apps!**
